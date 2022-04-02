@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manumariaraj
-- 👀 I’m interested in datascience and full-stack development
+- 👀 I’m interested in data-science and full-stack development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on projects involving Data analytics, Visualization, full-stack development
 - 📫 How to reach me - manumariaraj92@gmail.com
